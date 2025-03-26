@@ -1,24 +1,8 @@
-# README
+Nothing concrete for now, just me experimenting. The goal is to write a fully fledged social media app with:
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+- One human developer
+- Google Gemini Advanced 2.0 Flash
+- Copilot plugin for VSCode
+- Warp terminal
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+I'm just writing this readme after the first commit and I already had to correct Gemini several times. This is going to be fun!
